@@ -21,9 +21,3 @@
 </header>
 
 <slot />
-
-<style lang="scss">
-  li a:hover {
-    color: var(--platinum)
-  }
-</style>
